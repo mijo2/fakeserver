@@ -1,0 +1,14 @@
+[
+{
+  "email": "john@email.com",
+  "FirstName": "John",
+  "LastName": "Mayer",
+  "City": "Connecticut"
+},
+{
+  "email": "emmma@email.com",
+  "FirstName": "Emma",
+  "LastName": "Hilton",
+  "City": "London"
+}
+]
