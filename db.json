@@ -1,5 +1,5 @@
-[
-"details": {
+{
+"details": [{
   "email": "john@email.com",
   "FirstName": "John",
   "LastName": "Mayer",
@@ -10,5 +10,5 @@
   "FirstName": "Emma",
   "LastName": "Hilton",
   "City": "London"
+}]
 }
-]
